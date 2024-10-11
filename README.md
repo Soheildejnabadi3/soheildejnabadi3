@@ -9,14 +9,14 @@ I'm a recent Computer Science graduate from the University of Houston, passionat
 - 🛠️ Skilled in using tools like Version Control/Git, Power BI, and ArcGIS Pro
 
 ### 🛠️ Tech Stack
-Languages: Python, SQL, R, C++, C#, JavaScript, TypeScript
-Web Dev: HTML, CSS, Next.js, React, Angular, Node.js, Express.js, Django
-Databases: MongoDB
-Cloud: Oracle Cloud
+- Languages: Python, SQL, R, C++, C#, JavaScript, TypeScript
+- Web Dev: HTML, CSS, Next.js, React, Angular, Node.js, Express.js, Django
+- Databases: MongoDB
+- Cloud: Oracle Cloud
 
 ### 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/soheil-dejnabadi-24900b296/)
-Soheildejnabadi3@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/soheil-dejnabadi-24900b296/)
+- Soheildejnabadi3@gmail.com
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about tech!
 
