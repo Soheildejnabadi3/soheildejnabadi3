@@ -17,6 +17,8 @@ I'm a recent Computer Science graduate from the University of Houston, passionat
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/soheil-dejnabadi-24900b296/)
 - Soheildejnabadi3@gmail.com
+- [LeetCode](https://leetcode.com/u/soheildejnabadi3/)
+- [kaggle](https://www.kaggle.com/soheildejnabadi)
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about tech!
 
