@@ -10,7 +10,7 @@ I'm a Computer Science graduate from the University of Houston, passionate about
 
 ### 🛠️ Tech Stack
 - Languages: Python, SQL, C++, C#, JavaScript, TypeScript
-- Web Dev: HTML, CSS, Next.js, React, Angular, Node.js, Express.js, Django
+- Web Dev: HTML, CSS, Next.js, React, Vite, Vue, Angular, Node.js, Express.js, Django
 - Databases: MongoDB, Supabase
 - Cloud: AWS, Oracle Cloud
 
