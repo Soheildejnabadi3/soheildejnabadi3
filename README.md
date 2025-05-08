@@ -1,18 +1,18 @@
 ## Hello, I'm Soheil  👋
-I'm a recent Computer Science graduate from the University of Houston, passionate about software development and data science. Welcome to my GitHub profile!
+I'm a Computer Science graduate from the University of Houston, passionate about software development and data science. Welcome to my GitHub profile!
 
 ### 🚀 About Me
 - 🎓 BS in Computer Science with a minor in Geology from the University of Houston
 - 💻 Proficient in Python, SQL, R, C++, and C#
-- 🌐 Experienced in web development with JavaScript, TypeScript, React, Angular, and more
+- 🌐 Experienced in web development with JavaScript, TypeScript, React, Next, Vite, Vue, Angular, and more
 - 🐧 Comfortable with Linux, Windows, and Mac OS
 - 🛠️ Skilled in using tools like Version Control/Git, Power BI, and ArcGIS Pro
 
 ### 🛠️ Tech Stack
 - Languages: Python, SQL, C++, C#, JavaScript, TypeScript
 - Web Dev: HTML, CSS, Next.js, React, Angular, Node.js, Express.js, Django
-- Databases: MongoDB
-- Cloud: Oracle Cloud
+- Databases: MongoDB, Supabase
+- Cloud: AWS, Oracle Cloud
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/soheil-dejnabadi-24900b296/)
